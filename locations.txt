@@ -1,0 +1,3 @@
+C:\this\is\a\sample\directory\to\watch\
+C:\this\is\another\directory\
+D:\you\get\the\idea\
