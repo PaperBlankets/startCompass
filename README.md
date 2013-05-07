@@ -6,7 +6,7 @@ A windows script to automate compass watch
 This script consists of 3 files.
 
 statCompass.bat
-  This file contains your watch location directory, as well as your compass directory.
+  This file contains variables for your watch location directory, as well as your compass directory.
 
 startCompass.CMD
   This file is fed the specified watch directory, and your compass directory.
