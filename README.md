@@ -15,7 +15,7 @@ locations.txt
   This file contains a list of paths you would like Compass to watch. startCompass will feed them to Compass individually.
 
 Usefull information.
-1.) Adding startCompass.bat to your global enviornment variables will make your life easier.
+1.) Adding startCompass.bat to your global environment variables will make your life easier.
   http://www.itechtalk.com/thread3595.html
 
 2.) Using startCompass in conjunction with ConEmu will improve your workflow and window managment.
